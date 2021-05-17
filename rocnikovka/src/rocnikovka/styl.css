@@ -1,0 +1,157 @@
+.napis{
+    -fx-font-family: 'Segoe UI Symbol', Arial, sans-serif;
+    -fx-font-size: 30pt;
+    -fx-padding: 10;
+    -fx-text-fill: #fffbd4;
+}
+
+.btn{
+    -fx-background-color: #e6d3c1;
+    -fx-border-color: black;
+    -fx-alignment: center;
+    -fx-pref-width: 180;
+    -fx-pref-height: 50;
+    -fx-font-family: 'Segoe UI Symbol', Arial, sans-serif;
+    -fx-font-size: 20pt;
+}
+.pane {
+    -fx-background-color: white;
+    -fx-font-family: 'Segoe UI Symbol', Arial, sans-serif;
+    -fx-font-size: 23pt;
+    -jfx-button-type: raised;
+    -fx-pref-width: 100;
+    -fx-pref-height: 100;
+    -fx-text-alignment: center;
+    -fx-alignment: center;
+}
+
+.b0{
+    -fx-background-color: white;
+    -fx-font-family: 'Segoe UI Symbol', Arial, sans-serif;
+    -fx-font-size: 23pt;
+    -jfx-button-type: raised;
+    -fx-pref-width: 100;
+    -fx-pref-height: 100;
+    -fx-text-alignment: center;
+    -fx-alignment: center;
+}
+.b2 {
+    -fx-background-color: #e0d6cc;
+    -fx-font-family: 'Segoe UI Symbol', Arial, sans-serif;
+    -fx-font-size: 25pt;
+    -jfx-button-type: raised;
+    -fx-pref-width: 100;
+    -fx-pref-height: 100;
+    -fx-text-alignment: center;
+    -fx-alignment: center;
+}
+
+.b4 {
+    -fx-background-color: #ffe59e;
+    -fx-font-family: 'Segoe UI Symbol', Arial, sans-serif;
+    -fx-font-size: 26pt;
+    -jfx-button-type: raised;
+    -fx-pref-width: 100;
+    -fx-pref-height: 100;
+    -fx-text-alignment: center;
+    -fx-alignment: center;
+}
+
+.b8 {
+    -fx-background-color: #f2b179;
+    -fx-font-family: 'Segoe UI Symbol', Arial, sans-serif;
+    -fx-font-size: 26pt;
+    -jfx-button-type: raised;
+    -fx-pref-width: 100;
+    -fx-pref-height: 100;
+    -fx-text-alignment: center;
+    -fx-alignment: center;
+}
+
+.b16 {
+    -fx-background-color: #f59563;
+    -fx-font-family: 'Segoe UI Symbol', Arial, sans-serif;
+    -fx-font-size: 24pt;
+    -jfx-button-type: raised;
+    -fx-pref-width: 100;
+    -fx-pref-height: 100;
+    -fx-text-alignment: center;
+    -fx-alignment: center;
+}
+
+.b32 {
+    -fx-background-color: #f67c60;
+    -fx-font-family: 'Segoe UI Symbol', Arial, sans-serif;
+    -fx-font-size: 24pt;
+    -jfx-button-type: raised;
+    -fx-pref-width: 100;
+    -fx-pref-height: 100;
+    -fx-text-alignment: center;
+    -fx-alignment: center;
+}
+
+.b64 {
+    -fx-background-color: #f65f3c;
+    -fx-font-family: 'Segoe UI Symbol', Arial, sans-serif;
+    -fx-font-size: 24pt;
+    -jfx-button-type: raised;
+    -fx-pref-width: 100;
+    -fx-pref-height: 100;
+    -fx-text-alignment: center;
+    -fx-alignment: center;
+}
+
+.b128 {
+    -fx-background-color: #edcf73;
+    -fx-font-family: 'Segoe UI Symbol', Arial, sans-serif;
+    -fx-font-size: 23pt;
+    -jfx-button-type: raised;
+    -fx-pref-width: 100;
+    -fx-pref-height: 100;
+    -fx-text-alignment: center;
+    -fx-alignment: center;
+}
+
+.b256 {
+    -fx-background-color: #edcc62;
+    -fx-font-family: 'Segoe UI Symbol', Arial, sans-serif;
+    -fx-font-size: 23pt;
+    -jfx-button-type: raised;
+    -fx-pref-width: 100;
+    -fx-pref-height: 100;
+    -fx-text-alignment: center;
+    -fx-alignment: center;
+}
+
+.b512 {
+    -fx-background-color: #edc850;
+    -fx-font-family: 'Segoe UI Symbol', Arial, sans-serif;
+    -fx-font-size: 23pt;
+    -jfx-button-type: raised;
+    -fx-pref-width: 100;
+    -fx-pref-height: 100;
+    -fx-text-alignment: center;
+    -fx-alignment: center;
+}
+
+.b1024 {
+    -fx-background-color: #edc53f;
+    -fx-font-family: 'Segoe UI Symbol', Arial, sans-serif;
+    -fx-font-size: 21pt;
+    -jfx-button-type: raised;
+    -fx-pref-width: 100;
+    -fx-pref-height: 100;
+    -fx-text-alignment: center;
+    -fx-alignment: center;
+}
+
+.b2048 {
+    -fx-background-color: #edc53f;
+    -fx-font-family: 'Segoe UI Symbol', Arial, sans-serif;
+    -jfx-button-type: raised;
+    -fx-pref-width: 100;
+    -fx-pref-height: 100;
+    -fx-text-alignment: center;
+    -fx-font-size: 21pt;
+    -fx-alignment: center;
+}
